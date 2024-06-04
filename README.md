@@ -1,8 +1,8 @@
 # Projeto Sangue Solidário 🩸
 
-## Assista ao Vídeo
+## Não esqueça de assistir o video
 
-[Assista ao vídeo](https://youtu.be/OEYun-3-emQ?feature=shared)
+[Clique aqui](https://youtu.be/OEYun-3-emQ?feature=shared)
 
 ## Resumo do Projeto
 
@@ -33,7 +33,7 @@ O projeto utiliza uma biblioteca para enviar e-mails de confirmação de agendam
 
 O Projeto Sangue Solidário é uma iniciativa apaixonante que visa simplificar e incentivar a doação de sangue, conectando de forma eficiente doadores e hospitais. Com um sistema moderno de cadastro e agendamento online, o aplicativo contribui significativamente para salvar vidas e promover a solidariedade em nossa sociedade. 🩸💉👩‍⚕️
 
-Para sua criação utiliza as seguintes queries:
+## Para a criação das tabelas, utilize as seguintes queries:
 
 CREATE TABLE tb_doadores (
     id INT PRIMARY KEY AUTO_INCREMENT,
