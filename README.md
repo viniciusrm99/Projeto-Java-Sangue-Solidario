@@ -2,7 +2,7 @@
 
 ## Não esqueça de assistir o video
 
-[Clique aqui](https://youtu.be/OEYun-3-emQ?feature=shared)
+[Clique aqui](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
 
 ## Resumo do Projeto
 
