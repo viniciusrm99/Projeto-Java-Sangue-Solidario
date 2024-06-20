@@ -4,10 +4,6 @@
 
 [Clique aqui](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
 
-<video width="600" controls>
-  <source src="imagens/youtubevideo.mp4" type="video/mp4">
-  Seu navegador não suporta a reprodução de vídeos.
-</video>
 
 ## Resumo do Projeto 📝
 
