@@ -4,7 +4,6 @@
 
 [Clique aqui](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
 
-
 ## Resumo do Projeto 📝
 
 O Projeto Sangue Solidário é um aplicativo revolucionário que une doadores de sangue a hospitais cadastrados, simplificando o processo de agendamento de doações. Administrado por usuários autorizados, o sistema permite o cadastro de novos doadores e a marcação de doações online.
