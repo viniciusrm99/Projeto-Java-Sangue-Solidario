@@ -2,6 +2,8 @@
 
 ## Não esqueça de assistir o vídeo 📹
 
+<img src "imagens/youtubevideo.mp4">
+
 [Clique aqui](https://www.youtube.com/watch?v=FNa8p_mEGuk&ab_channel=Vin%C3%ADciusReisd)
 
 ## Resumo do Projeto 📝
